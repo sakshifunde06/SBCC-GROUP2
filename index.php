@@ -113,7 +113,7 @@ include("includes/main.php");
           <div class="footer-nav__col footer-nav__col--contacts">
             <div class="footer-nav__heading">Contact details</div>
             <address class="address">
-            Head Office: Sajivaninagar.<br>
+            Head Office: Shivajinagar.<br>
             Sinner Nashik.
           </address>
             <div class="phone">
